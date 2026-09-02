@@ -1,4 +1,4 @@
-# mini-rdbms
+# Mini-RDBMS
 
 A relational database engine built from scratch in C++ — storage manager,
 buffer pool, B+ tree indexing, a SQL parser/executor, transactions, and
